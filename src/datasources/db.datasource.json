@@ -1,0 +1,10 @@
+{
+  "name": "db",
+  "connector": "postgresql",
+  "url": "postgres://admin:1111@localhost:3111/database",
+  "host": "localhost",
+  "port": 8080,
+  "user": "admin",
+  "password": "1111",
+  "database": "loopback_project_db"
+}
